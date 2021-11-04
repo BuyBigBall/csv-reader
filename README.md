@@ -1,6 +1,6 @@
 # csv-reader
 
-The newline symbol is CR/LF(0x0d0a) or only CR(0x0d) in the csv file.
+The newline symbol is CR/LF(0x0d0a) or CR(0x0d) only in the csv file.
 
 and the contents of some fields contain CR(0x0d), that cells must be enclosed double quote symbol.
 
