@@ -1,0 +1,10 @@
+D:\Artur\38.php 7 homework\BarcodeMatchCsv\BarcodeMatchCsv\bin\Release\BarcodeMatchCsv.exe.config
+D:\Artur\38.php 7 homework\BarcodeMatchCsv\BarcodeMatchCsv\bin\Release\BarcodeMatchCsv.exe
+D:\Artur\38.php 7 homework\BarcodeMatchCsv\BarcodeMatchCsv\bin\Release\BarcodeMatchCsv.pdb
+D:\Artur\38.php 7 homework\BarcodeMatchCsv\BarcodeMatchCsv\obj\Release\BarcodeMatchCsv.csproj.AssemblyReference.cache
+D:\Artur\38.php 7 homework\BarcodeMatchCsv\BarcodeMatchCsv\obj\Release\BarcodeMatchCsv.Properties.Resources.resources
+D:\Artur\38.php 7 homework\BarcodeMatchCsv\BarcodeMatchCsv\obj\Release\BarcodeMatchCsv.csproj.GenerateResource.cache
+D:\Artur\38.php 7 homework\BarcodeMatchCsv\BarcodeMatchCsv\obj\Release\BarcodeMatchCsv.csproj.CoreCompileInputs.cache
+D:\Artur\38.php 7 homework\BarcodeMatchCsv\BarcodeMatchCsv\obj\Release\BarcodeMatchCsv.exe
+D:\Artur\38.php 7 homework\BarcodeMatchCsv\BarcodeMatchCsv\obj\Release\BarcodeMatchCsv.pdb
+D:\Artur\38.php 7 homework\BarcodeMatchCsv\BarcodeMatchCsv\obj\Release\BarcodeMatchCsv.Form1.resources
